@@ -1,0 +1,10 @@
+C:\aula\primer.csharp.miniproject01\MP01\UserInput\bin\Release\UserInput.dll
+C:\aula\primer.csharp.miniproject01\MP01\UserInput\bin\Release\UserInput.pdb
+C:\aula\primer.csharp.miniproject01\MP01\UserInput\bin\Release\mscorlib.dll
+C:\aula\primer.csharp.miniproject01\MP01\UserInput\bin\Release\normidna.nlp
+C:\aula\primer.csharp.miniproject01\MP01\UserInput\bin\Release\normnfc.nlp
+C:\aula\primer.csharp.miniproject01\MP01\UserInput\bin\Release\normnfd.nlp
+C:\aula\primer.csharp.miniproject01\MP01\UserInput\bin\Release\normnfkc.nlp
+C:\aula\primer.csharp.miniproject01\MP01\UserInput\bin\Release\normnfkd.nlp
+C:\aula\primer.csharp.miniproject01\MP01\UserInput\obj\Release\UserInput.dll
+C:\aula\primer.csharp.miniproject01\MP01\UserInput\obj\Release\UserInput.pdb
