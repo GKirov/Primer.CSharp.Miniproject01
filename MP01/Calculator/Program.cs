@@ -6,6 +6,7 @@ namespace Calculator
 	{
 		//Дефиниране на библиотеки
 		public UserInput.UInput uInput = new UserInput.UInput ();
+		public About.Me about = new About.Me ();
 
 
 
@@ -13,8 +14,12 @@ namespace Calculator
 		{
 			MainClass	_program = new MainClass ();
 
+			//Фарматиране на програмата
+			Console.Title = _program.about.shortName + ", " + _program.about.version;
 
-			_program.uInput.justTesting ();
+			//Стартиране на програмата
+			_program.uInput.sayHello ();
+			_program.uInput.getUserCommands ();
 
 		}
 	}

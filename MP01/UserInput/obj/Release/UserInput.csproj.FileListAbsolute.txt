@@ -9,3 +9,5 @@ C:\aula\primer.csharp.miniproject01\MP01\UserInput\bin\Release\normnfkd.nlp
 C:\aula\primer.csharp.miniproject01\MP01\UserInput\obj\Release\UserInput.dll
 C:\aula\primer.csharp.miniproject01\MP01\UserInput\obj\Release\UserInput.pdb
 C:\aula\primer.csharp.miniproject01\MP01\UserInput\obj\Release\UserInput.csprojResolveAssemblyReference.cache
+C:\aula\primer.csharp.miniproject01\MP01\UserInput\bin\Release\About.dll
+C:\aula\primer.csharp.miniproject01\MP01\UserInput\bin\Release\About.pdb

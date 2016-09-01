@@ -1,0 +1,10 @@
+C:\aula\primer.csharp.miniproject01\MP01\About\bin\Release\About.dll
+C:\aula\primer.csharp.miniproject01\MP01\About\bin\Release\About.pdb
+C:\aula\primer.csharp.miniproject01\MP01\About\bin\Release\mscorlib.dll
+C:\aula\primer.csharp.miniproject01\MP01\About\bin\Release\normidna.nlp
+C:\aula\primer.csharp.miniproject01\MP01\About\bin\Release\normnfc.nlp
+C:\aula\primer.csharp.miniproject01\MP01\About\bin\Release\normnfd.nlp
+C:\aula\primer.csharp.miniproject01\MP01\About\bin\Release\normnfkc.nlp
+C:\aula\primer.csharp.miniproject01\MP01\About\bin\Release\normnfkd.nlp
+C:\aula\primer.csharp.miniproject01\MP01\About\obj\Release\About.dll
+C:\aula\primer.csharp.miniproject01\MP01\About\obj\Release\About.pdb

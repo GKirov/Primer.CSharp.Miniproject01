@@ -5,3 +5,5 @@ C:\aula\primer.csharp.miniproject01\MP01\Calculator\obj\x86\Release\Calculator.e
 C:\aula\primer.csharp.miniproject01\MP01\Calculator\obj\x86\Release\Calculator.pdb
 C:\aula\primer.csharp.miniproject01\MP01\Calculator\bin\Release\UserInput.dll
 C:\aula\primer.csharp.miniproject01\MP01\Calculator\bin\Release\UserInput.pdb
+C:\aula\primer.csharp.miniproject01\MP01\Calculator\bin\Release\About.dll
+C:\aula\primer.csharp.miniproject01\MP01\Calculator\bin\Release\About.pdb
