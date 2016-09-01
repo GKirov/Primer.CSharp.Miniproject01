@@ -11,3 +11,5 @@ C:\aula\primer.csharp.miniproject01\MP01\UserInput\obj\Release\UserInput.pdb
 C:\aula\primer.csharp.miniproject01\MP01\UserInput\obj\Release\UserInput.csprojResolveAssemblyReference.cache
 C:\aula\primer.csharp.miniproject01\MP01\UserInput\bin\Release\About.dll
 C:\aula\primer.csharp.miniproject01\MP01\UserInput\bin\Release\About.pdb
+C:\aula\primer.csharp.miniproject01\MP01\UserInput\bin\Release\Colours.dll
+C:\aula\primer.csharp.miniproject01\MP01\UserInput\bin\Release\Colours.pdb
