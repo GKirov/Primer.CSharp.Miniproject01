@@ -8,3 +8,6 @@ C:\aula\primer.csharp.miniproject01\MP01\Calculations\bin\Release\normnfkc.nlp
 C:\aula\primer.csharp.miniproject01\MP01\Calculations\bin\Release\normnfkd.nlp
 C:\aula\primer.csharp.miniproject01\MP01\Calculations\obj\Release\Calculations.dll
 C:\aula\primer.csharp.miniproject01\MP01\Calculations\obj\Release\Calculations.pdb
+C:\aula\primer.csharp.miniproject01\MP01\Calculations\bin\Release\Colours.dll
+C:\aula\primer.csharp.miniproject01\MP01\Calculations\bin\Release\Colours.pdb
+C:\aula\primer.csharp.miniproject01\MP01\Calculations\obj\Release\Calculations.csprojResolveAssemblyReference.cache
