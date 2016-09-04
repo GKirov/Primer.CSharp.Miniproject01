@@ -8,3 +8,4 @@ C:\aula\primer.csharp.miniproject01\MP01\About\bin\Release\normnfkc.nlp
 C:\aula\primer.csharp.miniproject01\MP01\About\bin\Release\normnfkd.nlp
 C:\aula\primer.csharp.miniproject01\MP01\About\obj\Release\About.dll
 C:\aula\primer.csharp.miniproject01\MP01\About\obj\Release\About.pdb
+C:\aula\primer.csharp.miniproject01\MP01\About\obj\Release\About.csprojResolveAssemblyReference.cache

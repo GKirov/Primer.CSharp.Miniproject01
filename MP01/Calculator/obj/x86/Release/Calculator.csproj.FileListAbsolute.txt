@@ -9,3 +9,5 @@ C:\aula\primer.csharp.miniproject01\MP01\Calculator\bin\Release\About.dll
 C:\aula\primer.csharp.miniproject01\MP01\Calculator\bin\Release\About.pdb
 C:\aula\primer.csharp.miniproject01\MP01\Calculator\bin\Release\Colours.dll
 C:\aula\primer.csharp.miniproject01\MP01\Calculator\bin\Release\Colours.pdb
+C:\aula\primer.csharp.miniproject01\MP01\Calculator\bin\Release\Calculations.dll
+C:\aula\primer.csharp.miniproject01\MP01\Calculator\bin\Release\Calculations.pdb
