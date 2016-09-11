@@ -21,6 +21,7 @@ namespace Calculations
 				{
 					//Помощ за командата
 					help ();
+
 				}
 
 				if (param.Length > 1 && !_userInput.Contains ("-п") )
